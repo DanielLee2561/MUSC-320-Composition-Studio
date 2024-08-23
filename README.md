@@ -7,7 +7,7 @@
 
 **Description**
 
-The project is a music composition tool that allows composers to play a variety of instruments using a MIDI keyboard. Notes can be recorded and played back with full control over parameters such as pitch, octave, duration, and tempo. The tool also includes processing for volume and panning, enabling anyone to become a one-person ensemble.
+- The project is a music composition tool that allows composers to play a variety of instruments using a MIDI keyboard. Notes can be recorded and played back with full control over parameters such as pitch, octave, duration, and tempo. The tool also includes processing for volume and panning, enabling anyone to become a one-person ensemble.
 
 **Feature**
 
